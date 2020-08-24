@@ -16,7 +16,7 @@ const posts = [
 		<p>My first post using Sapper</p>
 
 		`
-	}
+	},
 
 	// {
 	// 	title: '',
