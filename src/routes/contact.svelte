@@ -25,14 +25,19 @@ const color = ["dark"]
 </style>
 
 
-<Form>
+<svelte:head>
+	<title>Contact</title>
+</svelte:head>
+
+<Form action="https://getform.io/f/f2e358e9-c556-4b61-825c-fe6e9f9fe008" method="POST">
 <div class="contact-me container">
  <FormGroup>
     <Label for="exampleUrl">First Name</Label>
     <Input
-      type="firstName"
-      name="name"
-      id="fname"
+      type="text"
+      name="first-name"
+      id="first-name"
+      class="form-control" 
       placeholder="" 
       required="true"/>
       
@@ -41,9 +46,10 @@ const color = ["dark"]
    <FormGroup>
     <Label for="exampleUrl">Last Name</Label>
     <Input
-      type="lastName"
-      name="name"
-      id="lname"
+      type="text"
+      name="last-name"
+      id="last-name"
+      class="form-control" 
       placeholder="" 
       required="true" />
   </FormGroup>
@@ -53,7 +59,8 @@ const color = ["dark"]
     <Input
       type="email"
       name="email"
-      id="exampleEmail"
+      id="email"
+      class="form-control" 
       placeholder=""
       required="true"/>
       
@@ -61,10 +68,10 @@ const color = ["dark"]
 
   <FormGroup>
     <Label for="exampleText">Reach Out</Label>
-    <Input type="textarea" name="text" id="exampleText" placeholder="Let's Chat" />
+    <Input type="textarea" name="text" id="exampleText" placeholder="Let's Chat" rows="5" />
   </FormGroup>
 
-    <Button type="submit" outline {color}>Submit</Button>
+    <Button type="submit" value="thanks.svelte" outline {color}>Submit</Button>
 
   </div>
 </Form>
