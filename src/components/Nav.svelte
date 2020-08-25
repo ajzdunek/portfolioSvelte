@@ -50,7 +50,7 @@ isOpen = event.detail.isOpen;
   <Collapse {isOpen} navbar expand="md" on:update={handleUpdate}>
     <Nav class="mr-auto" navbar>
       <NavItem>
-        <NavLink aria-current="{segment === 'about' ? 'page' : undefined}" href="projects">Projects</NavLink>
+        <NavLink aria-current="{segment === 'about' ? 'page' : undefined}" href="projects">Personal Projects</NavLink>
       </NavItem>
       <NavItem>
         <NavLink rel=prefetch aria-current="{segment === 'blog' ? 'page' : undefined}" href="blog">Blog</NavLink>

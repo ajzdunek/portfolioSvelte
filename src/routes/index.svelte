@@ -121,7 +121,7 @@ header .overlay {
           <div class="whoami-mobile">
             <h1 class="display-3 me">Andrew Zdunek</h1>
             <h1 class="display-6 occupation">Software Developer</h1>
-            <p class="py-5 about-me">Whether I'm creating simple pages with HTML/CSS or diving into a more complex project with JavaScript or Ruby, I appreciate that the tech space allows me to both be creative and solve problems. I've worked with small startups and Fortune 500 companies in the U.S. and New Zealand</p>
+            <p class="py-5 about-me">Whether I'm creating simple pages with HTML/CSS or diving into a more complex project with JavaScript or Ruby, I appreciate that the tech space allows me to both be creative and solve problems. I've worked with small startups and Fortune 500 companies in the U.S. and New Zealand.</p>
             </div>
 
             <div class="az-sd">
