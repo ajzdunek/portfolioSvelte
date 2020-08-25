@@ -71,7 +71,7 @@ const color = ["dark"]
     <Input type="textarea" name="text" id="exampleText" placeholder="Let's Chat" rows="5" />
   </FormGroup>
 
-    <Button type="submit" value="thanks.svelte" outline {color}>Submit</Button>
+    <Button type="submit" value="thanks.html" outline {color}>Submit</Button>
 
   </div>
 </Form>

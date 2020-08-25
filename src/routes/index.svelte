@@ -47,9 +47,9 @@ header .overlay {
   z-index: 1;
 }
 
-.az{
+.me, .occupation{
  letter-spacing: 10px;
- font-weight: 100 !important;
+ font-weight: 100 !important
 
 }
 
@@ -68,6 +68,37 @@ header .overlay {
 .index-fa-github{
  color: white;
 }
+
+
+
+/* Small devices (landscape phones, 576px and up) */
+
+@media (max-width: 576px) { 
+    .me{
+    font-size: 50px;
+    padding-top: 5px;
+		} 
+  }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {  }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {  }
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {  }
+
+
+
+  	/* @media (min-width: 480px) {
+		.whoami-mobile {
+		 position: absolute;
+      bottom: 50px;
+      font-size: 14px;
+		}
+	} */
+
 
 </style>
 
@@ -89,12 +120,13 @@ header .overlay {
       <div class="container h-100">
         <div class="d-flex h-100 text-center align-items-center">
           <div class="w-100 text-white">
-            <h1 class="display-3 az">Andrew Zdunek</h1>
-            <h1 class="display-6 az">Software Developer</h1>
+          <div class="whoami-mobile">
+            <h1 class="display-3 me">Andrew Zdunek</h1>
+            <h1 class="display-6 occupation">Software Developer</h1>
             <p class="py-5 about-me">A software developer turned technical recruiter who's pivoting back into the software development space.
               From the time I produced my first "Hello World" to creating band/artist pages with HTML, CSS and later diving into programming languages 
               such as JavaScript and Ruby I knew that I picked the right industry. It has helped me to be both creative and solve problems.</p>
-
+            </div>
 
             <div class="az-sd">
               <footer>AZ | Software Developement</footer>
