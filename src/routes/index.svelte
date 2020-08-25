@@ -69,7 +69,25 @@ header .overlay {
  color: white;
 }
 
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+  .me{
+     font-size: 5px;
+		} 
 
+  .occupation{
+     font-size: 20px;
+
+  }
+  
+  .whoami-mobile {
+    font-size: 12px;
+    position: absolute;
+    bottom: 70px;
+		}
+}
 
 /* Small devices (landscape phones, 576px and up) */
 
@@ -79,25 +97,6 @@ header .overlay {
     padding-top: 5px;
 		} 
   }
-
-/* Medium devices (tablets, 768px and up) */
-@media (min-width: 768px) {  }
-
-/* Large devices (desktops, 992px and up) */
-@media (min-width: 992px) {  }
-
-/* Extra large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) {  }
-
-
-
-  	/* @media (min-width: 480px) {
-		.whoami-mobile {
-		 position: absolute;
-      bottom: 50px;
-      font-size: 14px;
-		}
-	} */
 
 
 </style>
