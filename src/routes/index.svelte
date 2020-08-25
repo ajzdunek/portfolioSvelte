@@ -69,25 +69,6 @@ header .overlay {
  color: white;
 }
 
-@media only screen 
-  and (min-device-width: 320px) 
-  and (max-device-width: 568px)
-  and (-webkit-min-device-pixel-ratio: 2) {
-  .me{
-     font-size: 5px;
-		} 
-
-  .occupation{
-     font-size: 20px;
-
-  }
-  
-  .whoami-mobile {
-    font-size: 12px;
-    position: absolute;
-    bottom: 70px;
-		}
-}
 
 /* Small devices (landscape phones, 576px and up) */
 
@@ -97,6 +78,21 @@ header .overlay {
     padding-top: 5px;
 		} 
   }
+
+  @media (max-width: 320px) { 
+    .whoami-mobile{
+     position: absolute;
+    bottom: 70px;
+    font-size: 12px;
+		} 
+    .me{
+      font-size: 40px;
+    }
+    .occupation{
+      font-size: 25px;
+    }
+  }
+
 
 
 </style>
