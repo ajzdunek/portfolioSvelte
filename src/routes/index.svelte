@@ -125,7 +125,8 @@ header .overlay {
             </div>
 
             <div class="az-sd">
-              <footer>AZ | Software Developement</footer>
+              <footer>© 2020 AZ | Software Developement</footer>
+
 
               <div class="container py-3 text-center">
               <a href="https://www.linkedin.com/in/azdunek/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin-in fa-2x mr-2"></i></a>

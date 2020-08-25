@@ -77,7 +77,7 @@ const color = ["dark"]
 </Form>
 
  <div class="az-sd">
-              <footer>AZ | Software Developement</footer>
+              <footer>© 2020 AZ | Software Developement</footer>
         <div class="container py-3 text-center">
               <a href="https://www.linkedin.com/in/azdunek/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin-in fa-2x mr-2"></i></a>
               <a href="https://github.com/ajzdunek" target="_blank" rel="noopener noreferrer"><i class="fab fa-github fa-2x ml-3"></i></a>
