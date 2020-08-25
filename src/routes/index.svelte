@@ -70,15 +70,9 @@ header .overlay {
 }
 
 
-/* Small devices (landscape phones, 576px and up) */
 
-@media (max-width: 576px) { 
-    .me{
-    font-size: 50px;
-    padding-top: 5px;
-		} 
-  }
 
+/* iPhone 5/SE */
   @media (max-width: 320px) { 
     .whoami-mobile{
      position: absolute;
@@ -91,6 +85,15 @@ header .overlay {
     .occupation{
       font-size: 25px;
     }
+  }
+
+  /* Small devices (landscape phones, 576px and up) */
+
+@media (max-width: 576px) { 
+    .me{
+    font-size: 50px;
+    padding-top: 5px;
+		} 
   }
 
 
