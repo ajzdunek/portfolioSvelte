@@ -198,7 +198,7 @@ hr.style-one {
   </Media>
   <Media body>
     <Media heading>A to Z Recipe Search</Media>
-    Creating a recipes app using React and the Edamam Recipe Search API
+    Creating a recipes app using React, reactstrap, Bootstrap ver. 4+ and the Edamam Recipe Search API
   </Media>
   </div>
 </Media>
