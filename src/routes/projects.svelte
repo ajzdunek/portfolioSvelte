@@ -31,22 +31,6 @@ hr.style-one {
 
 <br>
 
-<Media>
-<div class="container py-3">
-  <Media left href="https://ajzdunek.github.io/Industrial-Steels/" target="_blank" rel="noopener noreferrer">
-    <Media
-      object
-      src="./images/industrial-steels.png"
-      alt="Indusrial Steels Mockup" />
-  </Media>
-  <Media body>
-     <Media heading>Industrial Steels</Media>
-   Coding a mockup of a business ready manufacturing website using HTML5, CSS, Bootstrap 4, Chart.js and Formspark. 
-  </Media>
-  </div>
-</Media>
-
-<hr class="style-one">
 
 <Media>
 <div class="container py-3">
