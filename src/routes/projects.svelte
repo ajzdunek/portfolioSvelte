@@ -62,8 +62,10 @@ hr.style-one {
   <Media body>
     <Media heading>Wasted Wish</Media>
   <p>Creating a band website in Jekyll (a static site generator built in Ruby) that mixes a touch of both minimalism and brutalism. <strong>(This repository is marked as private on GitHub)</strong></p>
+
+  <p>Technologies used - HTML5, CSS, Bootstrap 4, JavaScript, Getform.</p>
    
-  <p><strong>Nice-to-haves:</strong>Mobile responsiveness</p>
+  <p><strong>Nice-to-haves: </strong>Mobile responsiveness</p>
   </Media>
   </div>
 </Media>
@@ -109,7 +111,7 @@ hr.style-one {
 <hr class="style-one">
 
 
-<Media>
+<!-- <Media>
 <div class="container py-3">
   <Media left href="https://andrewzdunek.dev/" target="_blank" rel="noopener noreferrer">
     <Media
@@ -124,7 +126,7 @@ hr.style-one {
   </div>
 </Media>
 
-<hr class="style-one">
+<hr class="style-one"> -->
 
 
 <!-- <Media>
