@@ -111,42 +111,6 @@ hr.style-one {
 <hr class="style-one">
 
 
-<!-- <Media>
-<div class="container py-3">
-  <Media left href="https://andrewzdunek.dev/" target="_blank" rel="noopener noreferrer">
-    <Media
-      object
-      src="./images/dev-recruit.png"
-      alt="Web Dev Portfolio" />
-  </Media>
-  <Media body>
-    <Media heading>Dev & Recruit</Media>
-    A career portfolio built with Flask that combines both my web development and technical recruiting skills. <strong>(This repository is marked as private on GitHub)</strong>
-  </Media>
-  </div>
-</Media>
-
-<hr class="style-one"> -->
-
-
-<!-- <Media>
-<div class="container py-3">
-  <Media left href="#" target="_blank" rel="noopener noreferrer">
-    <Media
-      object
-      src="./images/az-sound.png"
-      alt="AZ Sound" />
-  </Media>
-  <Media body>
-    <Media heading>AZ Sound</Media>
-    Building a simple and sleek UI using the latest version of Bootstrap 4 combined with CSS to showcase all of the musical projects I've been a part of. <strong>(This repository is marked as private on GitHub)</strong>
-  </Media>
-  </div>
-</Media>
-
-<hr class="style-one"> -->
-
-
 <Media>
 <div class="container py-3">
   <Media left href="https://music404.com/" target="_blank" rel="noopener noreferrer">
