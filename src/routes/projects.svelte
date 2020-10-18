@@ -42,7 +42,7 @@ hr.style-one {
   </Media>
   <Media body>
     <Media heading>python_space_shooter</Media>
-    Making a Space Shooter with Python and PyGame.
+    Making a Space Shooter with Python and Pygame.
   </Media>
   </div>
 </Media>
@@ -59,7 +59,7 @@ hr.style-one {
   </Media>
   <Media body>
     <Media heading>python_animations</Media>
-    Making Python animations and using PyGame.
+    Making Python animations and using Pygame.
   </Media>
   </div>
 </Media>
@@ -76,11 +76,9 @@ hr.style-one {
   </Media>
   <Media body>
     <Media heading>Wasted Wish</Media>
-  <p>Creating a band website in Jekyll (a static site generator built in Ruby) that mixes a touch of both minimalism and brutalism. <strong>(This repository is marked as private on GitHub)</strong></p>
+  <p>Creating a band website in Jekyll (a static site generator built in Ruby) that mixes a touch of both minimalism and brutalism.</p>
 
   <p>Technologies used - HTML5, CSS, Bootstrap 4, JavaScript, Getform.</p>
-   
-  <p><strong>Nice-to-haves: </strong>Mobile responsiveness</p>
   </Media>
   </div>
 </Media>
@@ -100,6 +98,8 @@ hr.style-one {
   <Media body>
     <Media heading>Elementaj</Media>
     Creating a website for my current band Elementaj using Jekyll for its blog post feature, Bootstrap 4.1.3, Songkick tour widget, and MailChimp. <strong>(This repository is marked as private on GitHub)</strong>
+
+      <p>Technologies used - HTML5, CSS, JQuery, Bootstrap 4, JavaScript, MailChimp</p>
   </Media>
   </div>
 </Media>
