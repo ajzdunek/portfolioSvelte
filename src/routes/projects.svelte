@@ -97,7 +97,7 @@ hr.style-one {
   </Media>
   <Media body>
     <Media heading>Elementaj</Media>
-    Creating a website for my current band Elementaj using Jekyll for its blog post feature, Bootstrap 4.1.3, Songkick tour widget, and MailChimp. <strong>(This repository is marked as private on GitHub)</strong>
+    <p>Creating a website for my current band Elementaj using Jekyll for its blog post feature, Bootstrap 4.1.3, Songkick tour widget, and MailChimp. <strong>(This repository is marked as private on GitHub)</strong></p>
 
       <p>Technologies used - HTML5, CSS, JQuery, Bootstrap 4, JavaScript, MailChimp</p>
   </Media>
