@@ -49,7 +49,22 @@ hr.style-one {
 
 <hr class="style-one">
 
+<Media>
+<div class="container py-3">
+  <Media left href="https://github.com/ajzdunek/python_animations" target="_blank" rel="noopener noreferrer">
+    <Media
+      object
+      src="./images/python-animations.png"
+      alt="Python Animations" />
+  </Media>
+  <Media body>
+    <Media heading>python_animations</Media>
+    Making Python animations and using PyGame.
+  </Media>
+  </div>
+</Media>
 
+<hr class="style-one">
 
 <Media>
 <div class="container py-3">
