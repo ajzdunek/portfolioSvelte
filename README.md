@@ -10,4 +10,4 @@ My software development portfolio built with Svelte/Sapper.
 - Bootstrap 4.0+
 - Sveltestrap
 - Getform (handling the contact form)
-- Heroku
+- Deployed with Heroku
