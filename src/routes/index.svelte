@@ -130,6 +130,7 @@ header .overlay {
 
               <div class="container py-3 text-center">
               <a href="https://www.linkedin.com/in/azdunek/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin-in fa-2x mr-2"></i></a>
+              <a href="https://twitter.com/ZdunekAndrew" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter fa-2x ml-2"></i></a>
               <a href="https://github.com/ajzdunek" target="_blank" rel="noopener noreferrer"><i class="fab fa-github index-fa-github fa-2x ml-3"></i></a>
               <a href="https://stackoverflow.com/users/9090178/azdunek" target="_blank" rel="noopener noreferrer"><i class="fab fa-stack-overflow fa-2x ml-3"></i></a>
               </div>

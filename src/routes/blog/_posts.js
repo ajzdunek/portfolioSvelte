@@ -18,13 +18,15 @@ const posts = [
 		`
 	},
 
-	// {
-	// 	title: '',
-	// 	slug: '',
-	// 	html: `
+	{
+		title: 'Git and Github',
+		slug: 'Tips and a Cheat Sheet',
+		html: `
 
-	// 	`
-	// },
+		<h4>Getting Started</h4>
+
+ 	`
+	},
 
 	// {
 	// 	title: '',

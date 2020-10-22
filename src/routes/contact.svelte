@@ -1,7 +1,7 @@
 <script>
   import Form from 'sveltestrap/src/Form.svelte';
   import FormGroup from 'sveltestrap/src/FormGroup.svelte';
-  import FormText from 'sveltestrap/src/FormText.svelte';
+  // import FormText from 'sveltestrap/src/FormText.svelte';
   import Label from 'sveltestrap/src/Label.svelte';
   import Input from 'sveltestrap/src/Input.svelte';
   import Button from 'sveltestrap/src/Button.svelte';
@@ -80,7 +80,11 @@ const color = ["dark"]
               <footer>© 2020 AZ | Software Developement</footer>
         <div class="container py-3 text-center">
               <a href="https://www.linkedin.com/in/azdunek/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin-in fa-2x mr-2"></i></a>
+              <a href="https://twitter.com/ZdunekAndrew" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter fa-2x ml-2"></i></a>
               <a href="https://github.com/ajzdunek" target="_blank" rel="noopener noreferrer"><i class="fab fa-github fa-2x ml-3"></i></a>
               <a href="https://stackoverflow.com/users/9090178/azdunek" target="_blank" rel="noopener noreferrer"><i class="fab fa-stack-overflow fa-2x ml-3"></i></a>
         </div>
   </div> 
+
+
+  
