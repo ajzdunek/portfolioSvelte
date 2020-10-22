@@ -35,14 +35,14 @@
 
 
 	.content{
-		text-align: center;
+		/* text-align: center; */
 		font-weight: 400;
 		padding-top: 5px;
-		word-wrap: break-word;
-		width: 500px;
+		/* word-wrap: break-word;
+		width: 500px; */
 
-		position: relative;
-		left: 30%;
+		/* position: relative;
+		left: 30%; */
 	}
 
 	.content :global(h2) {
@@ -70,7 +70,6 @@
 	.content :global(li) {
 		margin: 0 0 0.5em 0;
 	}
-
 
 </style>
 
