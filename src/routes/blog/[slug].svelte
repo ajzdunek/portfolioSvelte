@@ -35,14 +35,8 @@
 
 
 	.content{
-		/* text-align: center; */
 		font-weight: 400;
 		padding-top: 5px;
-		/* word-wrap: break-word;
-		width: 500px; */
-
-		/* position: relative;
-		left: 30%; */
 	}
 
 	.content :global(h2) {
@@ -70,6 +64,14 @@
 	.content :global(li) {
 		margin: 0 0 0.5em 0;
 	}
+
+
+@media screen and (min-width: 400px) {
+    .content :global(.about-me) {
+       width: 20rem;
+    }
+}
+
 
 </style>
 

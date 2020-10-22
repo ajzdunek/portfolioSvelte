@@ -15,6 +15,7 @@ const posts = [
 		slug: 'first post',
 		html: `
 
+		
 	
 	<div class="container">	
 		<img src="images/IMG_6603.jpeg" class="img-fluid rounded mx-auto d-block" alt="Responsive image">
@@ -24,10 +25,10 @@ const posts = [
 		<br>
 
 	<div class="container">	
-		<p class="text-wrap mx-auto" style="width: 30rem;">My name is Andrew and I am a Software Developer. I am originally from Chicago and now live in the UK with my wife.
+		<p class="text-wrap mx-auto about-me" style="width: 30rem;">My name is Andrew and I am a Software Developer. I am originally from Chicago and now live in the UK with my wife.
 		Besides coding I play music and I like to collect vintage drum machines.</p>
 		
-		<p class="text-wrap mx-auto" style="width: 30rem;">Happy to talk about all things code so feel to reach out to me through the contact page or lets connect on LinkedIn.</p>
+		<p class="text-wrap mx-auto about-me" style="width: 30rem;">Happy to talk about all things code so feel to reach out to me through the contact page or lets connect on LinkedIn.</p>
 	<div>
 		
 		<br>

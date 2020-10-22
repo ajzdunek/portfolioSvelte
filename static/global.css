@@ -51,9 +51,8 @@ a {
 	}
 }
 
-/* @media (min-width: 400px) {
-	img{
-		position: relative;
-		left: -100px;
-	}
-} */
+@media screen and (min-width: 400px) {
+    .about-me {
+       width: 20rem;
+    }
+}
