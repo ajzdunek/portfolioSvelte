@@ -28,15 +28,21 @@
 	*/
 
 	h1{
-		padding-top: 20px;
+		padding-top: 40px;
 		text-align: center;
 		font-weight: 200;
 	}
+
 
 	.content{
 		text-align: center;
 		font-weight: 400;
 		padding-top: 5px;
+		word-wrap: break-word;
+		width: 500px;
+
+		position: relative;
+		left: 30%;
 	}
 
 	.content :global(h2) {

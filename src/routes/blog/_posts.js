@@ -7,13 +7,33 @@
 // we don't want to create an `/blog/posts` route — the leading
 // underscore tells Sapper not to do that.
 
+
+
 const posts = [
 	{
-		title: 'Hello World, Hello First Post and Hello Sapper',
+		title: 'A Brief Intro',
 		slug: 'first post',
 		html: `
 
-		<p>My first post using Sapper</p>
+
+		<img style="border-radius: 1%;"src="images/IMG_6603.jpeg" class="img-fluid" alt="Responsive image">
+
+		<br>
+		<br>
+
+		<p class="short-bio">My name is Andrew and I am a Software Developer. I am originally from Chicago and now live in the UK with my wife.
+		Besides coding I play music and I like to collect vintage drum machines.</p>
+		
+		<p>Happy to talk about all things code so feel to reach out to me through the contact page or lets connect on LinkedIn.</p>
+
+		<br>
+		
+
+
+		
+
+
+
 
 		`
 	},
@@ -23,7 +43,10 @@ const posts = [
 		slug: 'Tips and a Cheat Sheet',
 		html: `
 
-		<h4>Getting Started</h4>
+		<h6>Coming Soon</h6>
+
+
+
 
  	`
 	},

@@ -10,6 +10,9 @@
 	export let posts;
 </script>
 
+
+
+
 <style>
 	h1{
 		padding-top: 20px;
@@ -21,6 +24,8 @@
 		margin: 0 0 1em 0;
 		line-height: 1.5;
 	}
+
+
 </style>
 
 <svelte:head>
