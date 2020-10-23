@@ -53,7 +53,7 @@ isOpen = event.detail.isOpen;
         <NavLink aria-current="{segment === 'about' ? 'page' : undefined}" href="projects">Personal Projects</NavLink>
       </NavItem>
       <NavItem>
-        <NavLink rel=prefetch aria-current="{segment === 'blog' ? 'page' : undefined}" href="blog">Blog</NavLink>
+        <NavLink rel=prefetch aria-current="{segment === 'blog' ? 'page' : undefined}" href="blog">Thoughts / Code</NavLink>
       </NavItem>
 	     <NavItem>
         <NavLink rel=prefetch aria-current="{segment === 'contact' ? 'page' : undefined}" href="contact">Contact</NavLink>
