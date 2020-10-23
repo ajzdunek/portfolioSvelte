@@ -25,7 +25,7 @@ const posts = [
 		<br>
 
 	<div class="container">	
-		<p class="text-wrap mx-auto about-me" style="width: 30rem;">My name is Andrew and I am a Software Developer. I am originally from Chicago and now live in the UK with my wife.
+		<p class="text-wrap mx-auto brief-intro" style="width: 30rem;">My name is Andrew and I am a Software Developer. I am originally from Chicago and now live in the UK with my wife.
 		Besides coding I play music and I like to collect vintage drum machines.</p>
 		
 		<p class="text-wrap mx-auto about-me" style="width: 30rem;">Happy to talk about all things code so feel to reach out to me through the contact page or lets connect on LinkedIn.</p>
