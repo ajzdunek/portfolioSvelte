@@ -49,7 +49,7 @@ const posts = [
 		html: `
 
 		
-		<h6>Coming Soon</h6>
+		<h3 style="text-align: center; font-weight: 200">Coming Soon</h3>
 
 
 
