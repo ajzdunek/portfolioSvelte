@@ -48,8 +48,8 @@ const posts = [
 		slug: 'Tips and a Cheat Sheet',
 		html: `
 
+		
 		<h6>Coming Soon</h6>
-
 
 
 
