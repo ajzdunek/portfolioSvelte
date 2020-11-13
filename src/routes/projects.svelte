@@ -76,7 +76,7 @@ hr.style-one {
   </Media>
   <Media body>
     <Media heading>Wasted Wish</Media>
-  <p>Creating a band website in Jekyll (a static site generator built in Ruby) that mixes a touch of both minimalism and brutalism. This music project is no longer active</p>
+  <p>Creating a band website in Jekyll (a static site generator built in Ruby) that mixes a touch of both minimalism and brutalism. This music project is no longer active.</p>
 
   <p><strong>Technologies used</strong> - HTML5, CSS, Bootstrap 4, JavaScript, Getform.</p>
   </Media>
@@ -97,7 +97,7 @@ hr.style-one {
   </Media>
   <Media body>
     <Media heading>Elementaj</Media>
-    <p>Creating a website for my current band Elementaj using Jekyll for its blog post feature, Bootstrap 4.1.3, Songkick tour widget, and MailChimp. <strong>(This repository is marked as private on GitHub)</strong></p>
+    <p>Created a website for my band Elementaj using Jekyll for its blog post feature, Bootstrap 4.1.3, Songkick tour widget, and MailChimp. This project has been put on hold. <strong>(This repository is marked as private on GitHub)</strong></p>
 
       <p><strong>Technologies used</strong> - HTML5, CSS, JQuery, Bootstrap 4, JavaScript, MailChimp</p>
   </Media>
