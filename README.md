@@ -21,17 +21,14 @@ My software development portfolio built with Svelte/Sapper.
 
 ## Screenshots
 
-![picture](assets/project-screenshots/index-home.png)
-Index/Home Page
+![picture](static/project-screenshots/home.png)
+Home Page
 
-![picture](assets/project-screenshots/about-page.png)
-About Page
+![picture](static/project-screenshots/projects-page.png)
+Projects Page
 
-![picture](assets/project-screenshots/submit-page.png)
-Submit Page - Submit Your Music 
+![picture](static/project-screenshots/posts-page.png)
+Posts Page
 
-![picture](assets/project-screenshots/search-functionality.png)
-Search Functionality
-
-![picture](assets/project-screenshots/blog-post.png)
-Blog Post
+![picture](static/project-screenshots/contact-page.png)
+Contact Page
