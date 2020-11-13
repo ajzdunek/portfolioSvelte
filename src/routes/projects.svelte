@@ -76,9 +76,9 @@ hr.style-one {
   </Media>
   <Media body>
     <Media heading>Wasted Wish</Media>
-  <p>Creating a band website in Jekyll (a static site generator built in Ruby) that mixes a touch of both minimalism and brutalism.</p>
+  <p>Creating a band website in Jekyll (a static site generator built in Ruby) that mixes a touch of both minimalism and brutalism. This music project is no longer active</p>
 
-  <p>Technologies used - HTML5, CSS, Bootstrap 4, JavaScript, Getform.</p>
+  <p><strong>Technologies used</strong> - HTML5, CSS, Bootstrap 4, JavaScript, Getform.</p>
   </Media>
   </div>
 </Media>
@@ -99,7 +99,7 @@ hr.style-one {
     <Media heading>Elementaj</Media>
     <p>Creating a website for my current band Elementaj using Jekyll for its blog post feature, Bootstrap 4.1.3, Songkick tour widget, and MailChimp. <strong>(This repository is marked as private on GitHub)</strong></p>
 
-      <p>Technologies used - HTML5, CSS, JQuery, Bootstrap 4, JavaScript, MailChimp</p>
+      <p><strong>Technologies used</strong> - HTML5, CSS, JQuery, Bootstrap 4, JavaScript, MailChimp</p>
   </Media>
   </div>
 </Media>
@@ -118,7 +118,9 @@ hr.style-one {
   </Media>
   <Media body>
     <Media heading>Silver Sail</Media>
-    Creating a simple static band website using HTML5, CSS, Bootstrap 4.1.3, Bandsintown events widget and for the text effect JavaScript. 
+    <p>Creating a simple static band website using.  I am no longer the bass player for this project but still maintain the website for the band.</p>
+
+    <p><strong>Technologies used</strong> -  HTML5, CSS, Bootstrap 4.1.3, JavaScript and Bandsintown events widget</p>
   </Media>
   </div>
 </Media>
@@ -136,11 +138,11 @@ hr.style-one {
   </Media>
   <Media body>
     <Media heading>Music404</Media>
-    A fully functional independent music blog built with Jekyll, a blog-aware, static site generator written in Ruby. One of the features I'm proud of in this project was the ability to add search functionality so you can search for yours or your friends band.
+    <p>A fully functional independent music blog built with Jekyll, a blog-aware, static site generator written in Ruby. One of the features I'm proud of in this project was the ability to add search functionality so you can search for yours or your friends band.</p>
 
-  <p>Technologies used - HTML5, CSS, Bootstrap 4, JavaScript, Getform.</p>
+    <p><strong>Technologies used</strong> - HTML5, CSS, Bootstrap 4, JavaScript, Getform.</p>
 
-  The nice-to-haves that I'm working on currently is the mapping details to add more authors.
+    The nice-to-haves that I'm working on currently is the mapping details to add more authors.
   </Media>
   </div>
 </Media>

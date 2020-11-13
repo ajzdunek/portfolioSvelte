@@ -1,0 +1,8 @@
+I"�<h1 id="sample-title">Sample title</h1>
+
+<p>this is a sample blog post.</p>
+
+<p>// add extra ` to make it work(this blog use same method so tripple ` would be shown as a code here)
+``javascript
+  console.log(“test code highlight”)</p>
+:ET
