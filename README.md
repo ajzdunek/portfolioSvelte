@@ -21,7 +21,7 @@ My software development portfolio built with Svelte/Sapper.
 
 ## Screenshots
 
-![picture](static/project-screenshots/home.png)
+![picture](static/project-screenshots/home-page.png)
 Home Page
 
 ![picture](static/project-screenshots/projects-page.png)
