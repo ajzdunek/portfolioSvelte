@@ -118,7 +118,7 @@ hr.style-one {
   </Media>
   <Media body>
     <Media heading>Silver Sail</Media>
-    Creating a simple static band website using HTML5, CSS, Bootstrap 4.1.3, Bandsintown events widget and for the text effect JavaScript. <strong>(This repository is marked as private on GitHub)</strong>
+    Creating a simple static band website using HTML5, CSS, Bootstrap 4.1.3, Bandsintown events widget and for the text effect JavaScript. 
   </Media>
   </div>
 </Media>
@@ -136,8 +136,7 @@ hr.style-one {
   </Media>
   <Media body>
     <Media heading>Music404</Media>
-    <p>A fully functional independant music blog built with Jekyll, a blog-aware, static site generator written in Ruby. One of the features I'm proud of in this project so far was the ability to add search functionality so you can search for yours or your friends band. 
-    It's not the most exciting feature but from a developers perspective it was a good challenge for me to take on.</p>
+    A fully functional independent music blog built with Jekyll, a blog-aware, static site generator written in Ruby. One of the features I'm proud of in this project was the ability to add search functionality so you can search for yours or your friends band.
 
   <p>Technologies used - HTML5, CSS, Bootstrap 4, JavaScript, Getform.</p>
 
