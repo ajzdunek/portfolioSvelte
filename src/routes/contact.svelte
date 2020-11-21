@@ -68,9 +68,8 @@ const color = ["dark"]
 
   <FormGroup>
     <Label for="exampleText">Reach Out</Label>
-    <Input type="textarea" name="text" id="exampleText" placeholder="Let's Chat" rows="5" />
+    <Input type="textarea" name="text" id="exampleText" placeholder="" rows="5" />
   </FormGroup>
-
     <Button type="submit" value="thanks.html" outline {color}>Submit</Button>
 
   </div>

@@ -97,7 +97,7 @@ hr.style-one {
   </Media>
   <Media body>
     <Media heading>Elementaj</Media>
-    <p>Created a website for my band Elementaj using Jekyll for its blog post feature, Bootstrap 4.1.3, Songkick tour widget, and MailChimp. This project has been put on hold. <strong>(This repository is marked as private on GitHub)</strong></p>
+    <p>Created a website for my band Elementaj using Jekyll for its blog post feature, Bootstrap 4.1.3, Songkick tour widget, and MailChimp. This project has been put on hold.</p>
 
       <p><strong>Technologies used</strong> - HTML5, CSS, JQuery, Bootstrap 4, JavaScript, MailChimp</p>
   </Media>
@@ -138,11 +138,11 @@ hr.style-one {
   </Media>
   <Media body>
     <Media heading>Music404</Media>
-    <p>A fully functional independent music blog built with Jekyll, a blog-aware, static site generator written in Ruby. One of the features I'm proud of in this project was the ability to add search functionality so you can search for yours or your friends band.</p>
+    <p>A fully functional independent music blog built with Jekyll, a blog-aware, static site generator written in Ruby. One of the features I'm proud of in this project was the ability to add search functionality - the search data is stored in a JSON file.</p>
 
-    <p><strong>Technologies used</strong> - HTML5, CSS, Bootstrap 4, JavaScript, Getform.</p>
+    <p><strong>Technologies used</strong> - HTML5, CSS, Bootstrap 4, JavaScript, Getform.</p>  <p><strong>(This repository is marked as private on GitHub)</strong></p>
 
-    The nice-to-haves that I'm working on currently is the mapping details to add more authors.
+    <p>The nice-to-haves that I'm working on currently is the mapping details to add more authors.</p>
   </Media>
   </div>
 </Media>
